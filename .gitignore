@@ -1,5 +1,0 @@
-# Ignora el directorio public
-public
-
-# Ignora el archivo gitignore
-.gitignore
